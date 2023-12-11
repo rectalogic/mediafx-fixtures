@@ -1,0 +1,11 @@
+#format: frame checksums
+#version: 2
+#hash: MD5
+#extradata 0,                              42, e89deaac1c1a77d78033d7d9c66b8264
+#tb 0: 1/61440
+#media_type 0: video
+#codec_id 0: ffv1
+#dimensions 0: 320x180
+#sar 0: 0/1
+#stream#, dts,        pts, duration,     size, hash
+0,          0,          0,     4096,      526, d34fd535e3cf3027a4659dc4d118aa64
