@@ -1,0 +1,42 @@
+#format: frame checksums
+#version: 2
+#hash: MD5
+#tb 0: 1/15
+#media_type 0: video
+#codec_id 0: rawvideo
+#dimensions 0: 320x180
+#sar 0: 0/1
+#tb 1: 1/44100
+#media_type 1: audio
+#codec_id 1: pcm_s16le
+#sample_rate 1: 44100
+#channel_layout 1: 3
+#channel_layout_name 1: stereo
+#stream#, dts,        pts, duration,     size, hash
+0,          0,          0,        1,   172800, 92f8784806655b0f5f62eae30a73fd0b
+1,          0,          0,    22050,    88200, 1e1a925b7f46e417d1335e6a73bc91b1
+0,          1,          1,        1,   172800, 5a368c960f844774e0c929851d11b46d
+0,          2,          2,        1,   172800, ba17d57f5159d357147ca8a892ce65b2
+0,          3,          3,        1,   172800, b435de94228dd8fec37aef2542800c19
+0,          4,          4,        1,   172800, 3cb95e67efd4b9b3449a1db5faaf41c7
+0,          5,          5,        1,   172800, c339fe88ae3aff6e0265d9aa575f7fa6
+0,          6,          6,        1,   172800, 349dc7aa5a6d759ad9f5cfba62d67685
+0,          7,          7,        1,   172800, ea611fafcc9a730996c3309d8efa6deb
+1,      22050,      22050,    22050,    88200, 33910d2b8674bedc11c35169351ebea5
+0,          8,          8,        1,   172800, 9f4af1b6d9b4090febbecb72f2206696
+0,          9,          9,        1,   172800, 2d050dad8559c66e21077502c92db4c4
+0,         10,         10,        1,   172800, 2527981cd3cea76da76555640e9fc078
+0,         11,         11,        1,   172800, 1df0dd31d1011c679f1186569e8d073d
+0,         12,         12,        1,   172800, 0a4c975c65f65f4fddb4d59ef148f0bf
+0,         13,         13,        1,   172800, 8beab6db3500f23754abb1f1b2208393
+0,         14,         14,        1,   172800, f139853a06dc9dbd7370226661dd3b4f
+0,         15,         15,        1,   172800, f718f26443c9352d6a5482acf890c0a6
+1,      44100,      44100,    22050,    88200, 6c7ac2242723f028b232234f6d0d57d4
+0,         16,         16,        1,   172800, 4f538befbda9edb700c1f6af87ad333b
+0,         17,         17,        1,   172800, cd39abdb08b991e16e246a3b03f487da
+0,         18,         18,        1,   172800, 923cd8ff28063fa9f043567616f88045
+0,         19,         19,        1,   172800, 0b2bec8c8ca5abdecffe7dddb0c517bf
+0,         20,         20,        1,   172800, 2f958a01a8e824bf4b22cabc2a52c390
+0,         21,         21,        1,   172800, afcb6ea315d92bd01a5649b73d485f42
+0,         22,         22,        1,   172800, 9e9079f0f871edd47249adac36b8ff39
+1,      66150,      66150,     1470,     5880, 7de7d054962cbd6cfbcf786091769403
